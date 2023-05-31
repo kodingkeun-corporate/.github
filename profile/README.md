@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Kodingkeun adalah perusahaan yang menyediakan jasa pembuatan aplikasi untuk membantu pelaku bisnis dalam proses digitalisasi.
+  Kodingkeun yaitu perusahaan yang menyediakan jasa pembuatan aplikasi untuk membantu pelaku bisnis dalam proses digitalisasi.
 </p>
 
 <p align="center">
