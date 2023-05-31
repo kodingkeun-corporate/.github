@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Kodingkeun adalah sebuah media anak IT dan juga sebuah perusahaan yang bergerak dalam bidang IT.
+  Kodingkeun adalah perusahaan yang menyediakan jasa pembuatan aplikasi untuk membantu pelaku bisnis dalam proses digitalisasi.
 </p>
 
 <p align="center">
